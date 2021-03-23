@@ -1,0 +1,15 @@
+C:\Users\mkadr\source\repos\simpleCalculator\bin\Debug\netcoreapp3.1\simpleCalculator.exe
+C:\Users\mkadr\source\repos\simpleCalculator\bin\Debug\netcoreapp3.1\simpleCalculator.deps.json
+C:\Users\mkadr\source\repos\simpleCalculator\bin\Debug\netcoreapp3.1\simpleCalculator.runtimeconfig.json
+C:\Users\mkadr\source\repos\simpleCalculator\bin\Debug\netcoreapp3.1\simpleCalculator.runtimeconfig.dev.json
+C:\Users\mkadr\source\repos\simpleCalculator\bin\Debug\netcoreapp3.1\simpleCalculator.dll
+C:\Users\mkadr\source\repos\simpleCalculator\bin\Debug\netcoreapp3.1\simpleCalculator.pdb
+C:\Users\mkadr\source\repos\simpleCalculator\obj\Debug\netcoreapp3.1\simpleCalculator.csprojAssemblyReference.cache
+C:\Users\mkadr\source\repos\simpleCalculator\obj\Debug\netcoreapp3.1\simpleCalculator.Form1.resources
+C:\Users\mkadr\source\repos\simpleCalculator\obj\Debug\netcoreapp3.1\simpleCalculator.csproj.GenerateResource.cache
+C:\Users\mkadr\source\repos\simpleCalculator\obj\Debug\netcoreapp3.1\simpleCalculator.AssemblyInfoInputs.cache
+C:\Users\mkadr\source\repos\simpleCalculator\obj\Debug\netcoreapp3.1\simpleCalculator.AssemblyInfo.cs
+C:\Users\mkadr\source\repos\simpleCalculator\obj\Debug\netcoreapp3.1\simpleCalculator.csproj.CoreCompileInputs.cache
+C:\Users\mkadr\source\repos\simpleCalculator\obj\Debug\netcoreapp3.1\simpleCalculator.dll
+C:\Users\mkadr\source\repos\simpleCalculator\obj\Debug\netcoreapp3.1\simpleCalculator.pdb
+C:\Users\mkadr\source\repos\simpleCalculator\obj\Debug\netcoreapp3.1\simpleCalculator.genruntimeconfig.cache
